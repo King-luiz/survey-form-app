@@ -44,7 +44,7 @@ Ensure you have a modern web browser installed.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/survey-form-app.git
+git clone https://github.com/King-luiz/survey-form-app.git
 ```
 ## DEMO
 ![image](https://github.com/user-attachments/assets/a8019506-20f4-4072-8158-7f9443c90f25)
